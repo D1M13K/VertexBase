@@ -321,7 +321,7 @@
                 box-shadow: 0 4px 12px rgba(188, 24, 136, 0.5);
             }
         }
-
+        
         .instagram-float.pulse {
             animation: pulse 2s infinite;
         }
